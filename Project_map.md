@@ -25,11 +25,44 @@ Personal project to enhance my daily activities, improve my coding and also give
 
 - React
 
+# FastAPI File Structure
+
+    project/
+    ├── app/
+    │   ├── main.py
+    │   ├── routers/
+    │   │   ├── weather.py
+    │   │   ├── traffic.py
+    │   │   ├── news.py
+    │   │   ├── calendar.py
+    │   │   └── reddit.py
+    │   ├── services/
+    │   │   ├── weather_service.py
+    │   │   ├── traffic_service.py
+    │   │   └── ...
+    │   └── templates/
+    ├── static/
+    ├── requirements.txt
+    └── README.md
 
 
 # Project components and steps
 
-## 1. Gather API Access & Environment Setup
+## 1. Gather API Access & Environment Setup 
+[x] Mercury1.1 Register on OpenWeatherMap, Google Maps API, RSS feeds from 
+
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 
 
