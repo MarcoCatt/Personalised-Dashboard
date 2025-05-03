@@ -55,9 +55,9 @@ Personal project to enhance my daily activities, improve my coding and also give
 
 ## 1. Gather API Access & Environment Setup 
 
-[ ] 1.1 Register on OpenWeatherMap, Google Maps API, RSS feeds from news site and IOS calendar API
+- [ ] 1.1 Register on OpenWeatherMap, Google Maps API, RSS feeds from news site and IOS calendar API
 
-[ ] 1.2 Set up python main project document and also relevant sub-files according to project structure
+- [ ] 1.2 Set up python main project document and also relevant sub-files according to project structure
 
 [ ] 1.3 install required libraries
 
