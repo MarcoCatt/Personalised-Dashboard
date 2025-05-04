@@ -12,8 +12,8 @@ Personal project to enhance my daily activities, improve my coding and also give
 # Tech Stack
 
 ## Backend
-- FastAPI --> Backed framework(to improve my FastAPI knowledge)
--  SQLLite --> To store data
+- FastAPI --> Backend framework(to improve my FastAPI knowledge)
+-  SQLite --> To store data
 - Redis --> for caching
 
 
@@ -24,6 +24,30 @@ Personal project to enhance my daily activities, improve my coding and also give
 ## Frontend/UI
 
 - React
+
+# FastAPI File Structure
+
+    project
+    ├── backend/
+    │   ├── app/
+    │   │   ├── main.py
+    │   │   ├── api/
+    │   │   │   ├── weather.py
+    │   │   │   ├── calendar.py
+    │   │   │   └── ...
+    │   │   ├── db/
+    │   │   │   ├── models.py
+    │   │   │   ├── database.py
+    │   │   └── services/
+    │   └── requirements.txt
+    │   
+    └── frontend/
+        ├── public/
+        ├── src/
+        │   ├── components/
+        │   ├── pages/
+        │   └── App.tsx
+        └── package.json
 
 
 
